@@ -43,7 +43,6 @@ Soy un desarrollador apasionado por crear experiencias web modernas y fluidas. M
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexTorres8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTorres8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a" height="150" alt="languages graph" />
 </p>
 
